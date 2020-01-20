@@ -1,4 +1,6 @@
 {
+  "author": "Wellington Correia",
+  "description": "",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
